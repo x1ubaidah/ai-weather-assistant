@@ -3,6 +3,7 @@ import requests
 from dotenv import load_dotenv
 from groq import Groq
 import streamlit as st
+import pandas as pd
 
 load_dotenv()
 
